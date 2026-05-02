@@ -30,7 +30,8 @@ requests (thumbnail fetching)
 Install via pip:
 
 pip install PyQt6 python-vlc requests yt-dlp
-🔹 System Dependencies (Required)
+
+# 🔹 System Dependencies (Required)
 
 Make sure these are installed on your system:
 
