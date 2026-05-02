@@ -2,6 +2,9 @@
 
 A modern desktop music player built with Python that lets you search, stream, and download audio from YouTube — all inside a clean GUI.
 
+## This project is for educational purposes only.
+## Ensure compliance with YouTube's Terms of Service when using yt-dlp.
+
 # ✨ Features
 🔍 Search YouTube directly from the app
 ▶️ Stream audio instantly (no full download required)
